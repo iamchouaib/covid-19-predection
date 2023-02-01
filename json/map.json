@@ -1,0 +1,1474 @@
+[
+  {
+    "": "0",
+    "Country_Region": "Afghanistan",
+    "Lat": "33",
+    "Long": "66",
+    "cases": "80309",
+    "deaths": "2337"
+  },
+  {
+    "": "1",
+    "Country_Region": "Albania",
+    "Lat": "41",
+    "Long": "19",
+    "cases": "27136",
+    "deaths": "1147"
+  },
+  {
+    "": "2",
+    "Country_Region": "Algeria",
+    "Lat": "28",
+    "Long": "2",
+    "cases": "142541",
+    "deaths": "15965"
+  },
+  {
+    "": "3",
+    "Country_Region": "Andorra",
+    "Lat": "42",
+    "Long": "1",
+    "cases": "29255",
+    "deaths": "1556"
+  },
+  {
+    "": "4",
+    "Country_Region": "Angola",
+    "Lat": "-11",
+    "Long": "17",
+    "cases": "1150",
+    "deaths": "86"
+  },
+  {
+    "": "5",
+    "Country_Region": "Antigua and Barbuda",
+    "Lat": "17",
+    "Long": "-61",
+    "cases": "960",
+    "deaths": "104"
+  },
+  {
+    "": "6",
+    "Country_Region": "Argentina",
+    "Lat": "-34",
+    "Long": "-64",
+    "cases": "155279",
+    "deaths": "7454"
+  },
+  {
+    "": "7",
+    "Country_Region": "Armenia",
+    "Lat": "40",
+    "Long": "44",
+    "cases": "77564",
+    "deaths": "1107"
+  },
+  {
+    "": "8",
+    "Country_Region": "Australia",
+    "Lat": "-24",
+    "Long": "134",
+    "cases": "280040",
+    "deaths": "3112"
+  },
+  {
+    "": "9",
+    "Country_Region": "Austria",
+    "Lat": "47",
+    "Long": "14",
+    "cases": "627300",
+    "deaths": "20063"
+  },
+  {
+    "": "10",
+    "Country_Region": "Azerbaijan",
+    "Lat": "40",
+    "Long": "47",
+    "cases": "67188",
+    "deaths": "833"
+  },
+  {
+    "": "11",
+    "Country_Region": "Bahamas",
+    "Lat": "24",
+    "Long": "-78",
+    "cases": "2812",
+    "deaths": "388"
+  },
+  {
+    "": "12",
+    "Country_Region": "Bahrain",
+    "Lat": "26",
+    "Long": "50",
+    "cases": "110270",
+    "deaths": "303"
+  },
+  {
+    "": "13",
+    "Country_Region": "Bangladesh",
+    "Lat": "24",
+    "Long": "90",
+    "cases": "252525",
+    "deaths": "5108"
+  },
+  {
+    "": "14",
+    "Country_Region": "Barbados",
+    "Lat": "13",
+    "Long": "-59",
+    "cases": "3199",
+    "deaths": "220"
+  },
+  {
+    "": "15",
+    "Country_Region": "Belarus",
+    "Lat": "53",
+    "Long": "27",
+    "cases": "439059",
+    "deaths": "2848"
+  },
+  {
+    "": "16",
+    "Country_Region": "Belgium",
+    "Lat": "50",
+    "Long": "4",
+    "cases": "1704266",
+    "deaths": "248814"
+  },
+  {
+    "": "17",
+    "Country_Region": "Belize",
+    "Lat": "16",
+    "Long": "-88",
+    "cases": "660",
+    "deaths": "74"
+  },
+  {
+    "": "18",
+    "Country_Region": "Benin",
+    "Lat": "9",
+    "Long": "2",
+    "cases": "4020",
+    "deaths": "53"
+  },
+  {
+    "": "19",
+    "Country_Region": "Bhutan",
+    "Lat": "27",
+    "Long": "90",
+    "cases": "288",
+    "deaths": "0"
+  },
+  {
+    "": "20",
+    "Country_Region": "Bolivia",
+    "Lat": "-17",
+    "Long": "-64",
+    "cases": "46003",
+    "deaths": "2336"
+  },
+  {
+    "": "21",
+    "Country_Region": "Bosnia and Herzegovina",
+    "Lat": "44",
+    "Long": "17",
+    "cases": "61287",
+    "deaths": "2590"
+  },
+  {
+    "": "22",
+    "Country_Region": "Botswana",
+    "Lat": "-23",
+    "Long": "24",
+    "cases": "759",
+    "deaths": "43"
+  },
+  {
+    "": "23",
+    "Country_Region": "Brazil",
+    "Lat": "-10",
+    "Long": "-53",
+    "cases": "3026021",
+    "deaths": "202787"
+  },
+  {
+    "": "24",
+    "Country_Region": "Brunei",
+    "Lat": "4",
+    "Long": "114",
+    "cases": "5915",
+    "deaths": "43"
+  },
+  {
+    "": "25",
+    "Country_Region": "Bulgaria",
+    "Lat": "42",
+    "Long": "25",
+    "cases": "51038",
+    "deaths": "2290"
+  },
+  {
+    "": "26",
+    "Country_Region": "Burkina Faso",
+    "Lat": "12",
+    "Long": "-1",
+    "cases": "25051",
+    "deaths": "1576"
+  },
+  {
+    "": "27",
+    "Country_Region": "Burma",
+    "Lat": "17",
+    "Long": "95",
+    "cases": "4766",
+    "deaths": "193"
+  },
+  {
+    "": "28",
+    "Country_Region": "Burundi",
+    "Lat": "-3",
+    "Long": "29",
+    "cases": "387",
+    "deaths": "32"
+  },
+  {
+    "": "29",
+    "Country_Region": "Cabo Verde",
+    "Lat": "16",
+    "Long": "-24",
+    "cases": "4469",
+    "deaths": "56"
+  },
+  {
+    "": "30",
+    "Country_Region": "Cambodia",
+    "Lat": "12",
+    "Long": "104",
+    "cases": "5182",
+    "deaths": "0"
+  },
+  {
+    "": "31",
+    "Country_Region": "Cameroon",
+    "Lat": "4",
+    "Long": "13",
+    "cases": "63242",
+    "deaths": "2207"
+  },
+  {
+    "": "32",
+    "Country_Region": "Canada",
+    "Lat": "61",
+    "Long": "-107",
+    "cases": "1849308",
+    "deaths": "104556"
+  },
+  {
+    "": "33",
+    "Country_Region": "Central African Republic",
+    "Lat": "7",
+    "Long": "19",
+    "cases": "2016",
+    "deaths": "0"
+  },
+  {
+    "": "34",
+    "Country_Region": "Chad",
+    "Lat": "15",
+    "Long": "19",
+    "cases": "4161",
+    "deaths": "354"
+  },
+  {
+    "": "35",
+    "Country_Region": "Chile",
+    "Lat": "-31",
+    "Long": "-71",
+    "cases": "622139",
+    "deaths": "7392"
+  },
+  {
+    "": "36",
+    "Country_Region": "China",
+    "Lat": "35",
+    "Long": "104",
+    "cases": "3593568",
+    "deaths": "179982"
+  },
+  {
+    "": "37",
+    "Country_Region": "Colombia",
+    "Lat": "4",
+    "Long": "-72",
+    "cases": "239451",
+    "deaths": "10079"
+  },
+  {
+    "": "38",
+    "Country_Region": "Congo (Brazzaville)",
+    "Lat": "0",
+    "Long": "15",
+    "cases": "7299",
+    "deaths": "302"
+  },
+  {
+    "": "39",
+    "Country_Region": "Congo (Kinshasa)",
+    "Lat": "-2",
+    "Long": "23",
+    "cases": "20931",
+    "deaths": "1191"
+  },
+  {
+    "": "40",
+    "Country_Region": "Costa Rica",
+    "Lat": "10",
+    "Long": "-84",
+    "cases": "28306",
+    "deaths": "211"
+  },
+  {
+    "": "41",
+    "Country_Region": "Cote d'Ivoire",
+    "Lat": "7",
+    "Long": "-5",
+    "cases": "43259",
+    "deaths": "497"
+  },
+  {
+    "": "42",
+    "Country_Region": "Croatia",
+    "Lat": "45",
+    "Long": "15",
+    "cases": "78770",
+    "deaths": "2235"
+  },
+  {
+    "": "43",
+    "Country_Region": "Cuba",
+    "Lat": "23",
+    "Long": "-80",
+    "cases": "49296",
+    "deaths": "1871"
+  },
+  {
+    "": "44",
+    "Country_Region": "Cyprus",
+    "Lat": "34",
+    "Long": "33",
+    "cases": "31940",
+    "deaths": "562"
+  },
+  {
+    "": "45",
+    "Country_Region": "Czechia",
+    "Lat": "49",
+    "Long": "15",
+    "cases": "292798",
+    "deaths": "8294"
+  },
+  {
+    "": "46",
+    "Country_Region": "Denmark",
+    "Lat": "55",
+    "Long": "10",
+    "cases": "344232",
+    "deaths": "16128"
+  },
+  {
+    "": "47",
+    "Country_Region": "Diamond Princess",
+    "Lat": "53",
+    "Long": "27",
+    "cases": "30616",
+    "deaths": "532"
+  },
+  {
+    "": "48",
+    "Country_Region": "Djibouti",
+    "Lat": "11",
+    "Long": "42",
+    "cases": "32633",
+    "deaths": "78"
+  },
+  {
+    "": "49",
+    "Country_Region": "Dominica",
+    "Lat": "19",
+    "Long": "-70",
+    "cases": "672",
+    "deaths": "0"
+  },
+  {
+    "": "50",
+    "Country_Region": "Dominican Republic",
+    "Lat": "19",
+    "Long": "-70",
+    "cases": "245740",
+    "deaths": "10681"
+  },
+  {
+    "": "51",
+    "Country_Region": "Ecuador",
+    "Lat": "-1",
+    "Long": "-79",
+    "cases": "736056",
+    "deaths": "37593"
+  },
+  {
+    "": "52",
+    "Country_Region": "Egypt",
+    "Lat": "26",
+    "Long": "29",
+    "cases": "198682",
+    "deaths": "12800"
+  },
+  {
+    "": "53",
+    "Country_Region": "El Salvador",
+    "Lat": "13",
+    "Long": "-88",
+    "cases": "15651",
+    "deaths": "400"
+  },
+  {
+    "": "54",
+    "Country_Region": "Equatorial Guinea",
+    "Lat": "1",
+    "Long": "10",
+    "cases": "8605",
+    "deaths": "59"
+  },
+  {
+    "": "55",
+    "Country_Region": "Eritrea",
+    "Lat": "15",
+    "Long": "37",
+    "cases": "1558",
+    "deaths": "0"
+  },
+  {
+    "": "56",
+    "Country_Region": "Estonia",
+    "Lat": "58",
+    "Long": "25",
+    "cases": "64429",
+    "deaths": "1775"
+  },
+  {
+    "": "57",
+    "Country_Region": "Eswatini",
+    "Lat": "-26",
+    "Long": "31",
+    "cases": "2898",
+    "deaths": "38"
+  },
+  {
+    "": "58",
+    "Country_Region": "Ethiopia",
+    "Lat": "10",
+    "Long": "38",
+    "cases": "5257",
+    "deaths": "131"
+  },
+  {
+    "": "59",
+    "Country_Region": "Fiji",
+    "Lat": "-18",
+    "Long": "179",
+    "cases": "711",
+    "deaths": "0"
+  },
+  {
+    "": "60",
+    "Country_Region": "Finland",
+    "Lat": "63",
+    "Long": "25",
+    "cases": "177259",
+    "deaths": "6416"
+  },
+  {
+    "": "61",
+    "Country_Region": "France",
+    "Lat": "46",
+    "Long": "1",
+    "cases": "6101722",
+    "deaths": "846274"
+  },
+  {
+    "": "62",
+    "Country_Region": "Gabon",
+    "Lat": "0",
+    "Long": "11",
+    "cases": "11414",
+    "deaths": "144"
+  },
+  {
+    "": "63",
+    "Country_Region": "Gambia",
+    "Lat": "13",
+    "Long": "-15",
+    "cases": "494",
+    "deaths": "43"
+  },
+  {
+    "": "64",
+    "Country_Region": "Georgia",
+    "Lat": "32",
+    "Long": "-83",
+    "cases": "18287",
+    "deaths": "239"
+  },
+  {
+    "": "65",
+    "Country_Region": "Germany",
+    "Lat": "51",
+    "Long": "10",
+    "cases": "6238626",
+    "deaths": "217189"
+  },
+  {
+    "": "66",
+    "Country_Region": "Ghana",
+    "Lat": "8",
+    "Long": "-1",
+    "cases": "75169",
+    "deaths": "528"
+  },
+  {
+    "": "67",
+    "Country_Region": "Greece",
+    "Lat": "38",
+    "Long": "21",
+    "cases": "100492",
+    "deaths": "5118"
+  },
+  {
+    "": "68",
+    "Country_Region": "Grenada",
+    "Lat": "12",
+    "Long": "-61",
+    "cases": "713",
+    "deaths": "0"
+  },
+  {
+    "": "69",
+    "Country_Region": "Guatemala",
+    "Lat": "15",
+    "Long": "-90",
+    "cases": "20523",
+    "deaths": "521"
+  },
+  {
+    "": "70",
+    "Country_Region": "Guinea",
+    "Lat": "10",
+    "Long": "-10",
+    "cases": "43426",
+    "deaths": "230"
+  },
+  {
+    "": "71",
+    "Country_Region": "Guinea-Bissau",
+    "Lat": "11",
+    "Long": "-15",
+    "cases": "9433",
+    "deaths": "34"
+  },
+  {
+    "": "72",
+    "Country_Region": "Guyana",
+    "Lat": "4",
+    "Long": "-58",
+    "cases": "2900",
+    "deaths": "317"
+  },
+  {
+    "": "73",
+    "Country_Region": "Haiti",
+    "Lat": "19",
+    "Long": "-72",
+    "cases": "3442",
+    "deaths": "273"
+  },
+  {
+    "": "74",
+    "Country_Region": "Holy See",
+    "Lat": "38",
+    "Long": "-77",
+    "cases": "404",
+    "deaths": "0"
+  },
+  {
+    "": "75",
+    "Country_Region": "Honduras",
+    "Lat": "15",
+    "Long": "-86",
+    "cases": "35924",
+    "deaths": "2526"
+  },
+  {
+    "": "76",
+    "Country_Region": "Hungary",
+    "Lat": "47",
+    "Long": "19",
+    "cases": "92469",
+    "deaths": "9852"
+  },
+  {
+    "": "77",
+    "Country_Region": "Iceland",
+    "Lat": "64",
+    "Long": "-18",
+    "cases": "74124",
+    "deaths": "372"
+  },
+  {
+    "": "78",
+    "Country_Region": "India",
+    "Lat": "22",
+    "Long": "78",
+    "cases": "1265021",
+    "deaths": "41436"
+  },
+  {
+    "": "79",
+    "Country_Region": "Indonesia",
+    "Lat": "-2",
+    "Long": "117",
+    "cases": "345997",
+    "deaths": "26891"
+  },
+  {
+    "": "80",
+    "Country_Region": "Iran",
+    "Lat": "32",
+    "Long": "54",
+    "cases": "3666989",
+    "deaths": "229083"
+  },
+  {
+    "": "81",
+    "Country_Region": "Iraq",
+    "Lat": "33",
+    "Long": "44",
+    "cases": "78189",
+    "deaths": "3685"
+  },
+  {
+    "": "82",
+    "Country_Region": "Ireland",
+    "Lat": "52",
+    "Long": "-7",
+    "cases": "676218",
+    "deaths": "36156"
+  },
+  {
+    "": "83",
+    "Country_Region": "Israel",
+    "Lat": "30",
+    "Long": "34",
+    "cases": "584082",
+    "deaths": "7363"
+  },
+  {
+    "": "84",
+    "Country_Region": "Italy",
+    "Lat": "42",
+    "Long": "12",
+    "cases": "7841442",
+    "deaths": "1050162"
+  },
+  {
+    "": "85",
+    "Country_Region": "Jamaica",
+    "Lat": "18",
+    "Long": "-77",
+    "cases": "11753",
+    "deaths": "268"
+  },
+  {
+    "": "86",
+    "Country_Region": "Japan",
+    "Lat": "36",
+    "Long": "139",
+    "cases": "465776",
+    "deaths": "14121"
+  },
+  {
+    "": "87",
+    "Country_Region": "Jordan",
+    "Lat": "31",
+    "Long": "36",
+    "cases": "18697",
+    "deaths": "320"
+  },
+  {
+    "": "88",
+    "Country_Region": "Kazakhstan",
+    "Lat": "48",
+    "Long": "66",
+    "cases": "110840",
+    "deaths": "855"
+  },
+  {
+    "": "89",
+    "Country_Region": "Kenya",
+    "Lat": "1",
+    "Long": "38",
+    "cases": "15559",
+    "deaths": "708"
+  },
+  {
+    "": "90",
+    "Country_Region": "Korea, South",
+    "Lat": "36",
+    "Long": "127",
+    "cases": "457690",
+    "deaths": "9946"
+  },
+  {
+    "": "91",
+    "Country_Region": "Kosovo",
+    "Lat": "42",
+    "Long": "20",
+    "cases": "25127",
+    "deaths": "697"
+  },
+  {
+    "": "92",
+    "Country_Region": "Kuwait",
+    "Lat": "29",
+    "Long": "47",
+    "cases": "155053",
+    "deaths": "965"
+  },
+  {
+    "": "93",
+    "Country_Region": "Kyrgyzstan",
+    "Lat": "41",
+    "Long": "74",
+    "cases": "25926",
+    "deaths": "309"
+  },
+  {
+    "": "94",
+    "Country_Region": "Laos",
+    "Lat": "20",
+    "Long": "103",
+    "cases": "759",
+    "deaths": "0"
+  },
+  {
+    "": "95",
+    "Country_Region": "Latvia",
+    "Lat": "56",
+    "Long": "24",
+    "cases": "32530",
+    "deaths": "429"
+  },
+  {
+    "": "96",
+    "Country_Region": "Lebanon",
+    "Lat": "33",
+    "Long": "35",
+    "cases": "29622",
+    "deaths": "958"
+  },
+  {
+    "": "97",
+    "Country_Region": "Liberia",
+    "Lat": "5",
+    "Long": "-9",
+    "cases": "4664",
+    "deaths": "474"
+  },
+  {
+    "": "98",
+    "Country_Region": "Libya",
+    "Lat": "26",
+    "Long": "18",
+    "cases": "2061",
+    "deaths": "80"
+  },
+  {
+    "": "99",
+    "Country_Region": "Liechtenstein",
+    "Lat": "47",
+    "Long": "9",
+    "cases": "3451",
+    "deaths": "41"
+  },
+  {
+    "": "100",
+    "Country_Region": "Lithuania",
+    "Lat": "55",
+    "Long": "23",
+    "cases": "53172",
+    "deaths": "1519"
+  },
+  {
+    "": "101",
+    "Country_Region": "Luxembourg",
+    "Lat": "49",
+    "Long": "6",
+    "cases": "151049",
+    "deaths": "3295"
+  },
+  {
+    "": "102",
+    "Country_Region": "MS Zaandam",
+    "Lat": "52",
+    "Long": "4",
+    "cases": "387",
+    "deaths": "86"
+  },
+  {
+    "": "103",
+    "Country_Region": "Madagascar",
+    "Lat": "-18",
+    "Long": "46",
+    "cases": "5546",
+    "deaths": "0"
+  },
+  {
+    "": "104",
+    "Country_Region": "Malawi",
+    "Lat": "-13",
+    "Long": "33",
+    "cases": "1205",
+    "deaths": "95"
+  },
+  {
+    "": "105",
+    "Country_Region": "Malaysia",
+    "Lat": "4",
+    "Long": "102",
+    "cases": "233154",
+    "deaths": "3848"
+  },
+  {
+    "": "106",
+    "Country_Region": "Maldives",
+    "Lat": "3",
+    "Long": "73",
+    "cases": "12523",
+    "deaths": "36"
+  },
+  {
+    "": "107",
+    "Country_Region": "Mali",
+    "Lat": "16",
+    "Long": "-2",
+    "cases": "14998",
+    "deaths": "862"
+  },
+  {
+    "": "108",
+    "Country_Region": "Malta",
+    "Lat": "35",
+    "Long": "14",
+    "cases": "17769",
+    "deaths": "139"
+  },
+  {
+    "": "109",
+    "Country_Region": "Mauritania",
+    "Lat": "20",
+    "Long": "-9",
+    "cases": "330",
+    "deaths": "45"
+  },
+  {
+    "": "110",
+    "Country_Region": "Mauritius",
+    "Lat": "-20",
+    "Long": "57",
+    "cases": "13401",
+    "deaths": "389"
+  },
+  {
+    "": "111",
+    "Country_Region": "Mexico",
+    "Lat": "23",
+    "Long": "-102",
+    "cases": "660050",
+    "deaths": "62157"
+  },
+  {
+    "": "112",
+    "Country_Region": "Moldova",
+    "Lat": "47",
+    "Long": "28",
+    "cases": "127769",
+    "deaths": "3729"
+  },
+  {
+    "": "113",
+    "Country_Region": "Monaco",
+    "Lat": "43",
+    "Long": "7",
+    "cases": "3887",
+    "deaths": "125"
+  },
+  {
+    "": "114",
+    "Country_Region": "Mongolia",
+    "Lat": "46",
+    "Long": "103",
+    "cases": "1399",
+    "deaths": "0"
+  },
+  {
+    "": "115",
+    "Country_Region": "Montenegro",
+    "Lat": "42",
+    "Long": "19",
+    "cases": "12594",
+    "deaths": "236"
+  },
+  {
+    "": "116",
+    "Country_Region": "Morocco",
+    "Lat": "31",
+    "Long": "-7",
+    "cases": "150144",
+    "deaths": "6132"
+  },
+  {
+    "": "117",
+    "Country_Region": "Mozambique",
+    "Lat": "-19",
+    "Long": "34",
+    "cases": "2299",
+    "deaths": "0"
+  },
+  {
+    "": "118",
+    "Country_Region": "Namibia",
+    "Lat": "-23",
+    "Long": "17",
+    "cases": "682",
+    "deaths": "0"
+  },
+  {
+    "": "119",
+    "Country_Region": "Nepal",
+    "Lat": "28",
+    "Long": "84",
+    "cases": "2509",
+    "deaths": "0"
+  },
+  {
+    "": "120",
+    "Country_Region": "Netherlands",
+    "Lat": "52",
+    "Long": "5",
+    "cases": "1421760",
+    "deaths": "167950"
+  },
+  {
+    "": "121",
+    "Country_Region": "New Zealand",
+    "Lat": "-41",
+    "Long": "172",
+    "cases": "59035",
+    "deaths": "561"
+  },
+  {
+    "": "122",
+    "Country_Region": "Nicaragua",
+    "Lat": "12",
+    "Long": "-85",
+    "cases": "509",
+    "deaths": "125"
+  },
+  {
+    "": "123",
+    "Country_Region": "Niger",
+    "Lat": "17",
+    "Long": "9",
+    "cases": "26145",
+    "deaths": "1092"
+  },
+  {
+    "": "124",
+    "Country_Region": "Nigeria",
+    "Lat": "9",
+    "Long": "7",
+    "cases": "70894",
+    "deaths": "2240"
+  },
+  {
+    "": "125",
+    "Country_Region": "North Macedonia",
+    "Lat": "41",
+    "Long": "21",
+    "cases": "51003",
+    "deaths": "2512"
+  },
+  {
+    "": "126",
+    "Country_Region": "Norway",
+    "Lat": "61",
+    "Long": "8",
+    "cases": "307707",
+    "deaths": "7277"
+  },
+  {
+    "": "127",
+    "Country_Region": "Oman",
+    "Lat": "21",
+    "Long": "57",
+    "cases": "76112",
+    "deaths": "370"
+  },
+  {
+    "": "128",
+    "Country_Region": "Pakistan",
+    "Lat": "30",
+    "Long": "71",
+    "cases": "600307",
+    "deaths": "12797"
+  },
+  {
+    "": "129",
+    "Country_Region": "Panama",
+    "Lat": "8",
+    "Long": "-81",
+    "cases": "222986",
+    "deaths": "6225"
+  },
+  {
+    "": "130",
+    "Country_Region": "Papua New Guinea",
+    "Lat": "-5",
+    "Long": "144",
+    "cases": "250",
+    "deaths": "0"
+  },
+  {
+    "": "131",
+    "Country_Region": "Paraguay",
+    "Lat": "-23",
+    "Long": "-58",
+    "cases": "12744",
+    "deaths": "343"
+  },
+  {
+    "": "132",
+    "Country_Region": "Peru",
+    "Lat": "-6",
+    "Long": "-75",
+    "cases": "1242406",
+    "deaths": "34447"
+  },
+  {
+    "": "133",
+    "Country_Region": "Philippines",
+    "Lat": "12",
+    "Long": "122",
+    "cases": "305609",
+    "deaths": "19545"
+  },
+  {
+    "": "134",
+    "Country_Region": "Poland",
+    "Lat": "52",
+    "Long": "19",
+    "cases": "446152",
+    "deaths": "19928"
+  },
+  {
+    "": "135",
+    "Country_Region": "Portugal",
+    "Lat": "39",
+    "Long": "-8",
+    "cases": "899035",
+    "deaths": "33280"
+  },
+  {
+    "": "136",
+    "Country_Region": "Qatar",
+    "Lat": "25",
+    "Long": "51",
+    "cases": "438349",
+    "deaths": "392"
+  },
+  {
+    "": "137",
+    "Country_Region": "Romania",
+    "Lat": "45",
+    "Long": "24",
+    "cases": "423839",
+    "deaths": "24150"
+  },
+  {
+    "": "138",
+    "Country_Region": "Russia",
+    "Lat": "64",
+    "Long": "97",
+    "cases": "3687885",
+    "deaths": "33846"
+  },
+  {
+    "": "139",
+    "Country_Region": "Rwanda",
+    "Lat": "-1",
+    "Long": "30",
+    "cases": "7989",
+    "deaths": "0"
+  },
+  {
+    "": "140",
+    "Country_Region": "Saint Kitts and Nevis",
+    "Lat": "17",
+    "Long": "-62",
+    "cases": "587",
+    "deaths": "0"
+  },
+  {
+    "": "141",
+    "Country_Region": "Saint Lucia",
+    "Lat": "13",
+    "Long": "-60",
+    "cases": "679",
+    "deaths": "0"
+  },
+  {
+    "": "142",
+    "Country_Region": "Saint Vincent and the Grenadines",
+    "Lat": "12",
+    "Long": "-61",
+    "cases": "563",
+    "deaths": "0"
+  },
+  {
+    "": "143",
+    "Country_Region": "San Marino",
+    "Lat": "43",
+    "Long": "12",
+    "cases": "20406",
+    "deaths": "1642"
+  },
+  {
+    "": "144",
+    "Country_Region": "Sao Tome and Principe",
+    "Lat": "0",
+    "Long": "7",
+    "cases": "2219",
+    "deaths": "54"
+  },
+  {
+    "": "145",
+    "Country_Region": "Saudi Arabia",
+    "Lat": "25",
+    "Long": "42",
+    "cases": "748773",
+    "deaths": "5608"
+  },
+  {
+    "": "146",
+    "Country_Region": "Senegal",
+    "Lat": "14",
+    "Long": "-14",
+    "cases": "33750",
+    "deaths": "321"
+  },
+  {
+    "": "147",
+    "Country_Region": "Serbia",
+    "Lat": "44",
+    "Long": "20",
+    "cases": "286738",
+    "deaths": "5921"
+  },
+  {
+    "": "148",
+    "Country_Region": "Seychelles",
+    "Lat": "-4",
+    "Long": "55",
+    "cases": "469",
+    "deaths": "0"
+  },
+  {
+    "": "149",
+    "Country_Region": "Sierra Leone",
+    "Lat": "8",
+    "Long": "-11",
+    "cases": "4722",
+    "deaths": "244"
+  },
+  {
+    "": "150",
+    "Country_Region": "Singapore",
+    "Lat": "1",
+    "Long": "103",
+    "cases": "487568",
+    "deaths": "550"
+  },
+  {
+    "": "151",
+    "Country_Region": "Slovakia",
+    "Lat": "48",
+    "Long": "19",
+    "cases": "48024",
+    "deaths": "616"
+  },
+  {
+    "": "152",
+    "Country_Region": "Slovenia",
+    "Lat": "46",
+    "Long": "14",
+    "cases": "56066",
+    "deaths": "3119"
+  },
+  {
+    "": "153",
+    "Country_Region": "Somalia",
+    "Lat": "8",
+    "Long": "49",
+    "cases": "18436",
+    "deaths": "845"
+  },
+  {
+    "": "154",
+    "Country_Region": "South Africa",
+    "Lat": "-28",
+    "Long": "24",
+    "cases": "211711",
+    "deaths": "3755"
+  },
+  {
+    "": "155",
+    "Country_Region": "South Sudan",
+    "Lat": "7",
+    "Long": "29",
+    "cases": "1673",
+    "deaths": "0"
+  },
+  {
+    "": "156",
+    "Country_Region": "Spain",
+    "Lat": "39",
+    "Long": "-4",
+    "cases": "8245517",
+    "deaths": "904135"
+  },
+  {
+    "": "157",
+    "Country_Region": "Sri Lanka",
+    "Lat": "7",
+    "Long": "80",
+    "cases": "20320",
+    "deaths": "309"
+  },
+  {
+    "": "158",
+    "Country_Region": "Sudan",
+    "Lat": "14",
+    "Long": "29",
+    "cases": "18420",
+    "deaths": "1112"
+  },
+  {
+    "": "159",
+    "Country_Region": "Suriname",
+    "Lat": "4",
+    "Long": "-56",
+    "cases": "430",
+    "deaths": "42"
+  },
+  {
+    "": "160",
+    "Country_Region": "Sweden",
+    "Lat": "59",
+    "Long": "14",
+    "cases": "721554",
+    "deaths": "81884"
+  },
+  {
+    "": "161",
+    "Country_Region": "Switzerland",
+    "Lat": "46",
+    "Long": "8",
+    "cases": "1172056",
+    "deaths": "60993"
+  },
+  {
+    "": "162",
+    "Country_Region": "Syria",
+    "Lat": "34",
+    "Long": "39",
+    "cases": "1552",
+    "deaths": "112"
+  },
+  {
+    "": "163",
+    "Country_Region": "Taiwan*",
+    "Lat": "23",
+    "Long": "120",
+    "cases": "17691",
+    "deaths": "254"
+  },
+  {
+    "": "164",
+    "Country_Region": "Tanzania",
+    "Lat": "-6",
+    "Long": "35",
+    "cases": "11478",
+    "deaths": "429"
+  },
+  {
+    "": "165",
+    "Country_Region": "Thailand",
+    "Lat": "14",
+    "Long": "100",
+    "cases": "117311",
+    "deaths": "1941"
+  },
+  {
+    "": "166",
+    "Country_Region": "Timor-Leste",
+    "Lat": "-8",
+    "Long": "126",
+    "cases": "700",
+    "deaths": "0"
+  },
+  {
+    "": "167",
+    "Country_Region": "Togo",
+    "Lat": "8",
+    "Long": "1",
+    "cases": "4473",
+    "deaths": "269"
+  },
+  {
+    "": "168",
+    "Country_Region": "Trinidad and Tobago",
+    "Lat": "10",
+    "Long": "-61",
+    "cases": "4849",
+    "deaths": "336"
+  },
+  {
+    "": "169",
+    "Country_Region": "Tunisia",
+    "Lat": "33",
+    "Long": "9",
+    "cases": "36966",
+    "deaths": "1541"
+  },
+  {
+    "": "170",
+    "Country_Region": "Turkey",
+    "Lat": "38",
+    "Long": "34",
+    "cases": "3958405",
+    "deaths": "100420"
+  },
+  {
+    "": "171",
+    "Country_Region": "Uganda",
+    "Lat": "39",
+    "Long": "-100",
+    "cases": "3298",
+    "deaths": "0"
+  },
+  {
+    "": "172",
+    "Country_Region": "Ukraine",
+    "Lat": "1",
+    "Long": "32",
+    "cases": "331795",
+    "deaths": "8584"
+  },
+  {
+    "": "173",
+    "Country_Region": "United Arab Emirates",
+    "Lat": "49",
+    "Long": "31",
+    "cases": "410127",
+    "deaths": "3498"
+  },
+  {
+    "": "174",
+    "Country_Region": "Uruguay",
+    "Lat": "24",
+    "Long": "53",
+    "cases": "24407",
+    "deaths": "528"
+  },
+  {
+    "": "175",
+    "Country_Region": "Uzbekistan",
+    "Lat": "54",
+    "Long": "-3",
+    "cases": "67506",
+    "deaths": "282"
+  },
+  {
+    "": "176",
+    "Country_Region": "Venezuela",
+    "Lat": "-32",
+    "Long": "-56",
+    "cases": "12144",
+    "deaths": "403"
+  },
+  {
+    "": "177",
+    "Country_Region": "Vietnam",
+    "Lat": "41",
+    "Long": "63",
+    "cases": "11512",
+    "deaths": "0"
+  },
+  {
+    "": "178",
+    "Country_Region": "West Bank and Gaza",
+    "Lat": "8",
+    "Long": "-66",
+    "cases": "13629",
+    "deaths": "78"
+  },
+  {
+    "": "179",
+    "Country_Region": "Western Sahara",
+    "Lat": "15",
+    "Long": "107",
+    "cases": "226",
+    "deaths": "0"
+  },
+  {
+    "": "180",
+    "Country_Region": "Zambia",
+    "Lat": "31",
+    "Long": "35",
+    "cases": "5138",
+    "deaths": "131"
+  },
+  {
+    "": "181",
+    "Country_Region": "Zimbabwe",
+    "Lat": "24",
+    "Long": "-13",
+    "cases": "1105",
+    "deaths": "141"
+  },
+  {
+    "": "182",
+    "Country_Region": "US",
+    "Lat": "39",
+    "Long": "-100",
+    "cases": "1598453.0",
+    "deaths": "89442.0"
+  },
+  {
+    "": "183",
+    "Country_Region": "United Kingdom",
+    "Lat": "54",
+    "Long": "-3",
+    "cases": "238459.0",
+    "deaths": "36426.0"
+  }
+]

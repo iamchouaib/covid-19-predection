@@ -1,0 +1,74 @@
+:root {
+  --element-background: #202934;
+  --dashboard-background: #1c2025;
+  --accent: #1cd9c4;
+
+  --popupColor: #575757;
+  --font: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
+    Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: var(--font);
+  font-size: 62.5%;
+}
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #18191a;
+}
+* {
+  box-sizing: border-box;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
+.full__width {
+  width: 100%;
+  height: 100%;
+}
+.loader {
+  display: flex;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+.loader::before {
+  content: "";
+  width: 7rem;
+  height: 7rem;
+  border: 5px solid var(--accent);
+  border-top-color: var(--element-background);
+  margin-right: 15px;
+  border-radius: 50%;
+  animation: loading 1s ease infinite;
+}
+@keyframes loading {
+  to {
+    transform: rotate(1turn);
+  }
+}
+.mapboxgl-ctrl-icon {
+  background-color: #cecccc !important;
+}
+.mapboxgl-popup {
+  color: #fff !important;
+}
+.mapboxgl-popup .mapboxgl-popup-content {
+  background-color: var(--popupColor) !important;
+}
+.mapboxgl-popup-anchor-right .mapboxgl-popup-tip {
+  border-left-color: var(--popupColor) !important;
+}
+.mapboxgl-popup-anchor-left .mapboxgl-popup-tip {
+  border-right-color: var(--popupColor) !important;
+}
+.mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip {
+  border-top-color: var(--popupColor) !important;
+}
+.mapboxgl-popup-anchor-top .mapboxgl-popup-tip {
+  border-bottom-color: var(--popupColor) !important;
+}

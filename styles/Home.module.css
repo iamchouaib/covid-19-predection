@@ -1,0 +1,219 @@
+.navigation,
+.footer {
+  display: grid;
+  grid-auto-flow: column;
+  align-items: center;
+  background-color: var(--element-background);
+  padding: 1rem 2.25rem;
+}
+
+.footer a {
+  color: #e6bd97;
+}
+.footer p span {
+  color: #1cd9c4;
+}
+.navigation p {
+  font-size: 2rem;
+  font-weight: 300;
+  letter-spacing: 0.1rem;
+  margin: 0;
+  margin-left: 1rem;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+.menu__icon {
+  cursor: pointer;
+}
+.inner__elements {
+  display: flex;
+}
+.sidebar__element {
+  display: grid;
+  place-items: center;
+  height: 5rem;
+  width: 5rem;
+  border-radius: 1rem;
+  margin-right: 1rem;
+  background-color: var(--element-background);
+}
+.active {
+  display: grid;
+  place-items: center;
+  height: 5rem;
+  width: 5rem;
+  border-radius: 1rem;
+  margin-right: 1rem;
+  background-color: var(--accent);
+}
+.sidebar__icon:hover {
+  cursor: pointer;
+}
+.bold {
+  font-weight: 500;
+}
+
+.made b {
+  display: inline-block;
+  color: red;
+  font-size: 30px;
+
+  /*transform: rotate(45deg);*/
+  translate: 0 5px;
+
+  animation: love 1.2s infinite;
+}
+
+.marir {
+  display: inline-block;
+  animation: love 1.2s infinite;
+}
+@keyframes love {
+  0% {
+    transform: scale(0.8);
+  }
+  5% {
+    transform: scale(0.9);
+  }
+  10% {
+    transform: scale(0.8);
+  }
+  15% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.8);
+  }
+  100% {
+    transform: scale(0.8);
+  }
+}
+
+.row--centered {
+  display: flex;
+  align-items: center;
+}
+.footer p {
+  justify-self: center;
+  font-size: 1.4rem;
+  font-weight: 200;
+  font-style: italic;
+  margin: 0;
+  color: #ffffff;
+}
+.githubLogo {
+  justify-self: end;
+  width: 8rem;
+  height: 8rem;
+}
+
+.overview__group {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin: 2rem;
+  max-width: 100%;
+}
+.overview__subGroup {
+  display: flex;
+  gap: 2rem;
+}
+.overview__element {
+  background-color: var(--element-background);
+  border-radius: 1rem;
+  padding: 3rem;
+  width: 100%;
+}
+.label {
+  font-size: 1.6rem;
+  font-weight: 300;
+  letter-spacing: 0.2rem;
+  padding-bottom: 1rem;
+  margin: 0;
+  color: #cfd1d6;
+  text-transform: uppercase;
+  border-bottom: 1px solid #cfd1d6;
+}
+.value {
+  font-size: 5rem;
+  color: #ffffff;
+  margin: 1.75rem 0 0 0;
+}
+#mainChart {
+  grid-area: main-chart;
+  display: grid;
+  place-items: center;
+  height: 50vh;
+  background-color: var(--element-background);
+  border-radius: 1rem;
+  padding: 3rem;
+  margin: 0 2rem 2rem 2rem;
+}
+.vaccChart {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 33%;
+}
+.vaccNumber {
+  position: absolute;
+  top: 53.5%;
+  font-size: 2.3rem;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.country {
+  outline: none;
+  border: none;
+  padding: 1.2rem;
+
+  background-color: var(--dashboard-background);
+  color: #ffffff;
+  border: 1px solid #e6bd97;
+  margin: 2rem;
+  border-radius: 5px;
+}
+
+.country select option:hover {
+  background-color: #e6bd97;
+}
+
+@media screen and (max-width: 500px) {
+  .navigation p {
+    font-size: 1.75rem;
+    margin-left: 1.75rem;
+  }
+  .overview__subGroup {
+    flex-direction: column;
+  }
+  .active {
+    height: 4.5rem;
+    width: 4.5rem;
+    margin-bottom: 1.5rem;
+  }
+  .overview__group {
+    gap: 1.75rem;
+    margin: 1.5rem;
+  }
+  .overview__subGroup {
+    gap: 1.75rem;
+  }
+  .overview__element {
+    padding: 2rem;
+  }
+  .label {
+    font-size: 1.4rem;
+    letter-spacing: 0.1rem;
+  }
+  .value {
+    font-size: 3.5rem;
+  }
+  .vaccChart {
+    width: 100%;
+  }
+  .footer {
+    grid-auto-flow: row;
+    padding: 1.25rem 0;
+  }
+}

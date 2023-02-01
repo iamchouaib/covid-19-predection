@@ -1,0 +1,26 @@
+#map {
+  display: grid;
+  position: relative;
+}
+.dataswitch {
+  position: absolute;
+  justify-self: center;
+  bottom: 2vh;
+  z-index: 1;
+}
+.dataswitch__button {
+  margin: 0 0.5vw;
+  padding: 0.75rem 1.5rem;
+  font-family: var(--font);
+  font-weight: 300;
+  font-size: clamp(1.25rem, 2vw, 1.75rem);
+  color: #fff;
+  border: none;
+  background-color: var(--element-background);
+  border-radius: 1rem;
+  cursor: pointer;
+  transition: background-color 300ms ease-in-out;
+}
+.dataswitch__button:hover {
+  background-color: var(--popupColor);
+}
